@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iheb</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
-<img align="right"  src="https://giphy.com/embed/ZFiBmGVClrgxt02N9X" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen> 
+<img align="right"  src="https://giphy.com/embed/ZFiBmGVClrgxt02N9X" > 
 
 width="380" alt="coding">
 
