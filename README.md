@@ -3,7 +3,7 @@
 <img align="right" src="https://giphy.com/embed/Vnk8f29XU6GSZK8uGJ"> 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codetun&label=Profile%20views&color=0e75b6&style=flat" alt="codetun" /> </p>
+<img align="right" src="https://media.giphy.com/media/Vnk8f29XU6GSZK8uGJ/giphy.gif" alt="Iheb">
 
 - 🌱 I’m currently learning **Laravel , ReactJs and nodeJs**
 
