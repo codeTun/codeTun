@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iheb</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
-<img align="right" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-code&psig=AOvVaw2i9MU-c5jR3MtesAxOfTIL&ust=1705860343843000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCT-5PH7IMDFQAAAAAdAAAAABAD)"
+<img align="right"  src="https://giphy.com/embed/ZFiBmGVClrgxt02N9X" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen> 
+
 width="380" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codetun&label=Profile%20views&color=0e75b6&style=flat" alt="codetun" /> </p>
