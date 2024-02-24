@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.giphy.com/media/Vnk8f29XU6GSZK8uGJ/giphy.gif" width="480" height="480"  alt="Iheb">
 
-- 🌱 I’m currently learning **Laravel , ReactJs and nodeJs**
+- 🌱 I’m currently learning **Springboot , Angular and Docker**
 
 - 📫 How to reach me **ihebelazheri@ieee.org**
 
