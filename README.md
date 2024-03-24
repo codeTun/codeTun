@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codetun&label=Profile%20views&color=0e75b6&style=flat" alt="codetun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codetun" alt="codetun" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihebs-projects" alt="codetun" /></a> </p>
 
 <img align="right" src="https://media.giphy.com/media/Vnk8f29XU6GSZK8uGJ/giphy.gif" width="480" height="480" alt="Iheb">
 - 🔭 I’m currently working on **InnovaMarkets**
