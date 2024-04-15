@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Angular and Springboot**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://www.digitaldreams.tn)
+- 👨‍💻 All of my projects are available at [My Portfolio 👨🏻‍💻](https://www.digitaldreams.tn)
 
 - 💬 Ask me about **ReactJs , NextJs , NodeJs , Tailwindcss**
 
 - 📫 How to reach me **ihebelazheri@ieee.org**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1kRJfGcUuY8_-72vnoSFuGVuiF750Ky7K](https://drive.google.com/drive/folders/1kRJfGcUuY8_-72vnoSFuGVuiF750Ky7K)
+- 📄 Know about my experiences [My certifications 🏅](https://drive.google.com/drive/folders/1kRJfGcUuY8_-72vnoSFuGVuiF750Ky7K)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
