@@ -1,3 +1,21 @@
+<h1 align="center">Hey Folks 👋, I'm Elazheri iheb</h1>
+<h2 align="center">Software Engineering Student | Web Developer from tunisia </h2>
+
+---
+[![](https://visitcount.itsvg.in/api?id=codeTun&icon=7&color=0)](https://visitcount.itsvg.in)
+
+## 🧐 About me
+- 🔭 I’m currently working on **InnovaMarkets**
+
+- 🌱 I’m currently learning **Angular | Springboot**
+
+- 🎞️ I'm a **Web Developer | AI Specialist **
+  
+- ✨ I'm looking **forward to learning great things**
+  
+- 🌱 Always looking for collaborators. **collaborators**
+  
+- 📫 How to reach me **iheblazhary@gmail.com**
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/iheb.lazhary.50/)
@@ -21,8 +39,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codeTun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=codeTun&icon=7&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/codeTun) 
