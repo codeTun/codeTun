@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular | Springboot**
 
-- 🎞️ I'm a **Web Developer | AI Specialist **
+- 🎞️ I'm a **Web Developer | AI Specialist**
   
 - ✨ I'm looking **forward to learning great things**
   
