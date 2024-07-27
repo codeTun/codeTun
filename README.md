@@ -28,7 +28,7 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=codeTun&show_icons=true&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codeTun&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeTun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeTun&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codeTun&theme=radical&no-frame=false&no-bg=false&margin-w=4)
