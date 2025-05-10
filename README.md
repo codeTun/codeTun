@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=codeTun&icon=7&color=0)](https://visitcount.itsvg.in)
 
 ## 🧐 About me
-- 🔭 I’m currently working on **InnovaMarkets**
+- 🔭 I’m currently working on **Swish Smash**
 
 - 🌱 I’m currently learning **Angular | Springboot**
 
@@ -15,7 +15,7 @@
   
 - 🌱 Always looking for collaborators. **collaborators**
   
-- 📫 How to reach me **iheblazhary@gmail.com**
+- 📫 How to reach me **iheb.job@gmail.com**
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/iheb.lazhary.50/)
