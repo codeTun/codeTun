@@ -1,24 +1,19 @@
-<h1 align="center">Hi there 👋, I'm Iheb Elazheri</h1>
+# Hi there 👋, I'm Iheb Elazheri
 
-  <h3 align="center">Cloud & DevOps Engineer ☁️  · Full Stack Developer 💻 · AI Automation Builder 🤖</h3>
+  ### Cloud & DevOps Engineer ☁️  · Full Stack Developer 💻 · AI Automation Builder 🤖
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=codeTun&label=Profile%20views&color=0e75b6&style=flat" alt="profile 
-  views" />
-    <a href="https://linkedin.com/in/iheb-elazheri-aa55b0262">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"
-  alt="LinkedIn" />
-    </a>
-    <img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=flat" alt="open to work" />
-  </p>
+  ![Profile views](https://komarev.com/ghpvc/?username=codeTun&label=Profile%20views&color=0e75b6&style=flat)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://l
+  inkedin.com/in/iheb-elazheri-aa55b0262)
+  ![Open to Work](https://img.shields.io/badge/Open%20to-Work-2ea44f?style=flat)
 
   ---
-  
-  ### 🧑‍💻 About Me
 
-  I'm a **Software Engineering student** who loves turning ideas into real, production-ready systems. I spend most of my
-   time at the intersection of **cloud infrastructure**, **full-stack development**, and **AI-powered automation** —
-  building things that actually ship, not just demos.
+  ## 🧑‍💻 About Me
+
+  I'm a **Software Engineering student** who loves turning ideas into real, production-ready systems. I work at the
+  intersection of **cloud infrastructure**, **full-stack development**, and **AI-powered automation** building things
+  that actually ship, not just demos.
   
   - 🔭 Currently building scalable backends with **Spring Boot** + **Next.js**, deployed on containerized infra
   - 🌱 Going deeper into **Kubernetes**, **observability**, and **AI agent workflows**
@@ -28,30 +23,21 @@
   - 📫 Reach me at **iheb.job@gmail.com**
 
   ---
-
-  ### 🌐 Let's Connect
   
-  <p align="center">
-    <a href="https://linkedin.com/in/iheb-elazheri-aa55b0262">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn" />
-    </a>
-    <a href="mailto:iheb.job@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.facebook.com/iheb.lazhary.50/">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-  alt="Facebook" />
-    </a>
-    <a href="https://www.instagram.com/itzz_iheb/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-  alt="Instagram" />
-    </a>
-  </p>
+  ## 🌐 Let's Connect
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://
+  linkedin.com/in/iheb-elazheri-aa55b0262)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iheb.job@g
+  mail.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://
+  www.facebook.com/iheb.lazhary.50/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https
+  ://www.instagram.com/itzz_iheb/)
 
   ---
   
-  ### 🛠️  Tech Stack
+  ## 🛠️  Tech Stack
 
   **☁️  Cloud & DevOps**
 
@@ -115,46 +101,34 @@
 
   ---
 
-  ### 📜 Certifications                                         
+  ## 📜 Certifications                                          
 
-  <p>
-    <img src="https://img.shields.io/badge/RHCSA-Red%20Hat%20Certified%20System%20Administrator-EE0000?style=for-the-bad
-  ge&logo=redhat&logoColor=white" alt="RHCSA" />
-    <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&l
-  ogoColor=white" alt="AZ-900" />
-  </p>
+  ![RHCSA](https://img.shields.io/badge/RHCSA-Red%20Hat%20Certified%20System%20Administrator-EE0000?style=for-the-badge&
+  logo=redhat&logoColor=white)
+  ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&log
+  oColor=white)
 
   ---
-
-  ### 📊 GitHub Stats
-
-  <p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=codeTun&show_icons=true&theme=tokyonight&
-  include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-    <img height="180" src="https://streak-stats.demolab.com?user=codeTun&theme=tokyonight&hide_border=true" alt="GitHub 
-  streak" />
-  </p>
-
-  <p align="center">                                            
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeTun&layout=compact&theme=tokyonight&hid
-  e_border=true&langs_count=10" alt="Top languages" />
-  </p>
-
-  ---
-
-  ### 🏆 GitHub Trophies
-
-  <p align="center">
-    <img 
-  src="https://github-profile-trophy.vercel.app/?username=codeTun&theme=tokyonight&no-frame=true&margin-w=10&row=1" 
-  alt="trophies" />
-  </p>
   
+  ## 📊 GitHub Stats
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeTun&show_icons=true&theme=tokyonight&include_a
+  ll_commits=true&count_private=true&hide_border=true)
+
+  ![GitHub streak](https://streak-stats.demolab.com?user=codeTun&theme=tokyonight&hide_border=true)
+
+  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeTun&layout=compact&theme=tokyonigh
+  t&hide_border=true&langs_count=10)
+
   ---
 
-# 💬 Quote
+  ## 📈 Contribution Activity
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codeTun&theme=tokyo-night&hide_border
+  =true&area=true)                                              
 
+  ---
+
+  ## 💬 Quote
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
