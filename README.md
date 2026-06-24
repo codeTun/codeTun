@@ -12,26 +12,34 @@ Cloud & DevOps Engineer ☁️ | Full Stack Developer 💻 | AI Automation Enthu
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a passionate **Software Engineering student** who loves building real-world, scalable, and automated systems.
+I'm a passionate **Software Engineering student** who enjoys building real-world, scalable, and automated systems.
 
-- ☁️ Cloud & DevOps enthusiast focused on real infrastructure and automation
-- 🐳 Experienced with Docker, Kubernetes, Linux, and CI/CD pipelines
-- 🤖 Building AI-powered automation systems using FastAPI, n8n & OpenAI
-- 💻 Full Stack Developer using Next.js, Spring Boot, and PostgreSQL
-- 🔧 I enjoy turning ideas into real, usable, and scalable products
+- ☁️ Cloud & DevOps enthusiast focused on infrastructure and automation
+- 🐳 Docker • Kubernetes • Linux • CI/CD pipelines
+- 🤖 AI automation with FastAPI, n8n & OpenAI
+- 💻 Full Stack Developer (Next.js, Spring Boot, PostgreSQL)
+- 🔧 I love turning ideas into real production systems
 - 📜 Certified RHCSA & Azure Fundamentals (AZ-900)
-- 📫 Reach me anytime: **iheb.job@gmail.com**
+- 📫 Contact: **iheb.job@gmail.com**
 
 ---
 
-## 🌐 Let's Connect
+# 🌐 Let's Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/iheb-elazheri-aa55b0262"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.facebook.com/iheb.lazhary.50/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.instagram.com/itzz_iheb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://linkedin.com/in/iheb-elazheri-aa55b0262">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.facebook.com/iheb.lazhary.50/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/itzz_iheb/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 </p>
 
 ---
@@ -49,6 +57,8 @@ I'm a passionate **Software Engineering student** who loves building real-world,
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
+---
+
 ## 🚀 Backend & Automation
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -61,6 +71,8 @@ I'm a passionate **Software Engineering student** who loves building real-world,
 ![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
+---
+
 ## 🎨 Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -68,11 +80,15 @@ I'm a passionate **Software Engineering student** who loves building real-world,
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+---
+
 ## 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
 
 ## 🤖 AI & Data
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -80,6 +96,8 @@ I'm a passionate **Software Engineering student** who loves building real-world,
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
 
 ## 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -101,29 +119,29 @@ I'm a passionate **Software Engineering student** who loves building real-world,
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codeTun&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=codeTun&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeTun&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeTun&theme=dark" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeTun&layout=compact&theme=vision-friendly-dark"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=codeTun&theme=radical&no-frame=false&margin-w=4"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeTun&layout=compact&theme=vision-friendly-dark" />
 </p>
 
 ---
 
-## 💬 Quote I Like
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://github-profile-trophy.vercel.app/?username=codeTun&theme=radical&no-frame=false&margin-w=4" />
+</p>
+
+---
+
+# 💬 Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
