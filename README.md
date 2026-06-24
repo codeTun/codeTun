@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Iheb%20Elazheri&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20%C2%B7%20Full%20Stack%20%C2%B7%20AI%20Automation&descAlignY=58&descSize=18" width="100%" alt="Iheb Elazheri" />
+<h1 align="center">Hi 👋, I'm Iheb Elazheri</h1>
 
 <a href="https://github.com/codeTun"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;AI+Automation+Builder+%F0%9F%A4%96" alt="Typing SVG" /></a>
 
@@ -27,112 +27,60 @@ Software Engineering student who turns ideas into real, production-ready systems
 
 **☁️ Cloud & DevOps**
 
-<div align="center">
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-</div>
 
 **⚙️ Backend & Automation**
 
-<div align="center">
-
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=apachekafka&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white) ![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-
-</div>
 
 **🎨 Frontend**
 
-<div align="center">
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
 
 **🗄️ Databases**
 
-<div align="center">
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</div>
 
 **🤖 AI & Data**
 
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
 
 **🧰 Tools**
 
-<div align="center">
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
 
 ---
 
 ## 📜 Certifications
 
-<div align="center">
-
 ![RHCSA](https://img.shields.io/badge/RHCSA-Red%20Hat%20Certified%20System%20Administrator-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![AZ-900](https://img.shields.io/badge/AZ--900-Microsoft%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-</div>
 
 ---
 
 ## 🔗 Connect With Me
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iheb-elazheri-aa55b0262) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iheb.job@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iheb.lazhary.50/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itzz_iheb/)
-
-</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=codeTun&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Iheb's GitHub Stats" height="180" /> <img src="https://streak-stats.demolab.com/?user=codeTun&hide_border=true&theme=tokyonight" alt="Iheb's GitHub Streak" height="180" />
-
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeTun&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Iheb's Top Languages" height="180" />
 
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeTun&hide_border=true&theme=tokyo-night" alt="Iheb's Activity Graph" width="100%" />
-
-</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
 <img src="https://github-profile-trophy-fork-two.vercel.app/?username=codeTun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Iheb's GitHub Trophies" width="100%" />
-
-</div>
 
 ---
 
 ## 💬 Dev Quote
 
-<div align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Let's%20build%20something%20that%20ships%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" alt="footer" />
