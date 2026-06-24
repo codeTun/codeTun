@@ -16,7 +16,7 @@
 
 💻 Full Stack Developer (Next.js, Spring Boot, PostgreSQL)
   
-- 📫 How to reach me **iheb.job@gmail.com**
+📫 How to reach me **iheb.job@gmail.com**
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/iheb.lazhary.50/)
