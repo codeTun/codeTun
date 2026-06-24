@@ -4,16 +4,17 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=codeTun&icon=7&color=0)](https://visitcount.itsvg.in)
 
-## 🧐 About me
-- 🔭 I’m currently working on **Swish Smash**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Angular | Springboot**
+🔭 Building Cloud-Native & AI Solutions
 
-- 🎞️ I'm a **Web Developer | AI Specialist**
-  
-- ✨ I'm looking **forward to learning great things**
-  
-- 🌱 Always looking for collaborators. **collaborators**
+☁️ Cloud & DevOps Engineer (RHCSA | Azure Certified)
+
+🐳 Docker • Kubernetes • GitHub Actions • Linux
+
+🤖 AI Automation • FastAPI • n8n • Microsoft Graph API
+
+💻 Full Stack Developer (Next.js, Spring Boot, PostgreSQL)
   
 - 📫 How to reach me **iheb.job@gmail.com**
 
